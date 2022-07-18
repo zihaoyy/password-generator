@@ -6,7 +6,7 @@ Quickly generate a password containing a combination of uppercase letters, lower
 
 ### Preview
 
-![](https://github.com/zihaoyy/password-generator/tree/main/public/img/preview.jpg)
+![](https://github.com/zihaoyy/password-generator/blob/main/public/preview.jpg)
 
 ### Technology stack
 
