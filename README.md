@@ -1,24 +1,17 @@
-# project1
+# Password Generator
 
-## Project setup
-```
-yarn install
-```
+## Description
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+Quickly generate a password containing a combination of uppercase letters, lowercase letters, numbers and symbols, we will not record your password in any way, the data is only generated locally, and the window will be lost when you close the window, which is safe and convenient.
 
-### Compiles and minifies for production
-```
-yarn build
-```
+### Preview
 
-### Lints and fixes files
-```
-yarn lint
-```
+![](https://github.com/zihaoyy/password-generator/tree/main/public/img/preview.jpg)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Technology stack
+
+Vue3 + Tailwindcss + ElementPlus
+
+### License
+
+You are allowed to view the source code and understand how it is implemented, but you cannot modify the content for distribution to any platform.

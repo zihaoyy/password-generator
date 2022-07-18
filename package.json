@@ -1,15 +1,24 @@
 {
-  "name": "project1",
+  "name": "password-generator",
   "version": "0.1.0",
   "private": true,
+  "author": "Zihao",
+  "homepage": "https://github.com/zihaoyy/password-generator",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "autoprefixer": "^10.4.7",
     "core-js": "^3.8.3",
-    "vue": "^3.2.13"
+    "element-plus": "^2.2.9",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.1.6",
+    "unplugin-auto-import": "^0.9.3",
+    "unplugin-vue-components": "^0.21.1",
+    "vue": "^3.2.13",
+    "vue-clipboard3": "^2.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
