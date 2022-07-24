@@ -7,6 +7,7 @@ Quickly generate a password containing a combination of uppercase letters, lower
 ## Available in web app store
 
 - [Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/pwd-gene)
+- [Chrome](https://chrome.google.com/webstore/detail/hjmeieomeniiohpojonbbkljcfhjafjg)
 
 ## Preview
 
